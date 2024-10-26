@@ -3,4 +3,4 @@ Circle animation &amp; hover effects with Html CSS
 
 <a href="https://codepen.io/Hadil-Ben-Abdallah/pen/vYoGdyw">Demo 🎞</a>
 
-If you like it, you're welcome to fork it 😊
+Feel free to customize it further based on your experience! 😊
